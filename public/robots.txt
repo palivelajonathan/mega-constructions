@@ -1,0 +1,11 @@
+# Robots.txt for Mega Construction Equipments
+# Target keywords: Construction Equipment Hyderabad, Rebar Bending Machine Hyderabad
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /assets/
+Disallow: /api/
+Disallow: /admin/
+
+Sitemap: https://megaconstructions.com/sitemap.xml
